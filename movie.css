@@ -3,7 +3,7 @@ p {
   margin: 0;
 }
 .container {
-  padding: 16px;
+  padding: 18px;
 }
 
 .header {
@@ -87,3 +87,4 @@ h3 {
   background: purple;
   margin-top: 12px;
 }
+
