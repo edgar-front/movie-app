@@ -47,7 +47,7 @@ h3 {
 
 .movie-banner img {
   width: 100%;
-  height: 240px;
+  height: 260px;
   object-fit: cover;
   transition: all 0.3s ease;  
 }
@@ -87,6 +87,7 @@ h3 {
   background: purple;
   margin-top: 10px;
 }
+
 
 
 
