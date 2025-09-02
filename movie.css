@@ -15,7 +15,7 @@ p {
 .navigation {
   display: flex;
   justify-content: space-evenly;
-  gap: 4px;
+  gap: 3px;
 }
 
 h3 {
@@ -87,6 +87,7 @@ h3 {
   background: purple;
   margin-top: 10px;
 }
+
 
 
 
