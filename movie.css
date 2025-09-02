@@ -29,7 +29,7 @@ h3 {
 }
 
 .movie-card {
-  width: 170px;
+  width: 160px;
   background: white;
   color: white;
   overflow: hidden;
@@ -87,6 +87,7 @@ h3 {
   background: purple;
   margin-top: 10px;
 }
+
 
 
 
