@@ -59,7 +59,7 @@ h3 {
   background: blue;
   color: white;
   font-size: 11px;
-  padding: 4px 8px;
+  padding: 6px 8px;
   border-radius: 6px;
   z-index: 1;
 }
@@ -87,6 +87,7 @@ h3 {
   background: purple;
   margin-top: 10px;
 }
+
 
 
 
