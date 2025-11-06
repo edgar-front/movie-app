@@ -33,7 +33,7 @@
   background: red;
   color: white;
   border: none;
-  padding: 6px 10px;
+  padding: 6px 8px;
   cursor: pointer;
   font-size: 18px;
 }
@@ -45,6 +45,7 @@
 .modal-content p {
   margin: 6px 0;
 }
+
 
 
 
