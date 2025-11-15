@@ -67,7 +67,7 @@ h3 {
 .movie-info {
   display: flex;
   background: white;
-  gap: 3px;
+  gap: 4px;
   color: black;
 }
 
@@ -87,6 +87,7 @@ h3 {
   background: purple;
   margin-top: 8px;
 }
+
 
 
 
